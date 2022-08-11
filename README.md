@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sakalya Mitra</h1>
+<h1 align="center">Hi 👋, I'm Satyaki Bhattacharjee</h1>
 <h3 align="center">Student at Vellore Institute of Technology, Bhopal🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakalya100&label=Profile%20views&color=0e75b6&style=flat" alt="sakalya100" /> </p>
@@ -11,26 +11,22 @@
 
 - 🌱 I’m currently learning **Machine Learning and exploring the mathematical concepts in depth**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sakalya100](https://github.com/Sakalya100)
+- 👨‍💻 All of my projects are available at [https://github.com/GUNNER2K](https://github.com/Sakalya100)
 
-- 💬 Ask me about **AI,ML,Deep Learning**
+- 💬 Ask me about **AI,ML,Deep Learning,NLP and CV**
 
-- 📫 How to reach me **sakalyamitra@gmail.com**
+- 📫 How to reach me **satyakibhattacharjee252@gmail.com**
 
 
 <h3 align="left">Achievements:</h3>
 
-- GitHub Campus Expert
+- 2nd place in ML competition 
 
-- Open Source Contributor(GsSoC,LGMSoC,GWoC,SWoC,OpenForce)
+- 1 month intern @ grifffon technology
 
-- Competitve Programmer(3🌟 CodeChef, 3🌟 LeetCode, 5🌟 Hackerrank, NewBie Codeforces)
+ -dont like competitive programming
 
-  - January Challenge 2021 Division 3(CodeChef)
-
-- Exploring DSA
-
-- 3rd Place WCE Hackathon
+- runner up in interschool squash competition
 
 - AWS ML Scholar'21
 
